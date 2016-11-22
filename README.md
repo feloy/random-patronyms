@@ -7,5 +7,5 @@ Outputs a comma-separated (CSV) file.
 ```
 ./random-patronyms [ -n <number of patronyms> ] [ -x ] [ -b ]
  -x: add a gender column
- -b add a birthdate column
+ -b: add a birthdate column
 ```
